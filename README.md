@@ -1,12 +1,15 @@
-# C-Balanced-Expression
-Checks if a expression is balanced Ex: (({{}})) is balanced ({)} is not balanced
--	Implemented Stack using Dynamic Array
--	Pushed relevant characters onto stack
--	Popped Characters off stack when necessary
--	Returns whether the expression is balanced
--	Also, returns where the expression is no longer balanced if it is not balanced along with expected character
+# Scrabble Help -- Visual Studios Project
+Note: C# UI was not written or designed by me
 
+-	Builds List of All Words in Dictionary in Txt Files in Dictionary folder
+-	Takes in letters in User Interface and builds all possible words in the dictionary for them through a predicate function
+- Predicate function takes in letters and the word and sees if word can be created with the letters given
+-	Words are scored through a function that uses tail recursion to add up the score of each letter
+-	Words are returned as touples with their scores sorted in descending order
+-	Checking if the word actually fits the pattern uses two different functions
+- First to eliminate a lot of the words they were checked to see if they had the same length as the pattern
+- If not they were immediately discarded, if they were they were run through a different predicate function
+- Through this function words were matched up letter by letter removing a letter from each until they were both empty
 
-Note: to follow this tutorial you will need gcc to be downloaded on your machine follow this tutorial to get it http://gcc.gnu.org/install/download.html
-
-To run this code you will type gcc main.c then ./a.out
+Ex:
+  
