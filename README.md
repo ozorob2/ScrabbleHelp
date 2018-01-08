@@ -12,4 +12,5 @@ Note: C# UI was not written or designed by me
 - Through this function words were matched up letter by letter removing a letter from each until they were both empty
 
 Ex:
+    ![alt text](https://raw.githubusercontent.com/ozorob2/ScrabbleHelp/blob/master/ExampleScreenshot.png)
   
