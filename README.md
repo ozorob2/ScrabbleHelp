@@ -11,5 +11,5 @@ Note: C# UI was not written or designed by me
 - If not they were immediately discarded, if they were they were run through a different predicate function
 - Through this function words were matched up letter by letter removing a letter from each until they were both empty
 
-![Example Usage](https://raw.github.com/ozorob2/ScrabbleHelp/blob/master/ExampleScreenshot.png)
+![Example Usage](https://user-images.githubusercontent.com/29234968/34661094-da272a08-f40c-11e7-9a03-c3577072b30b.png)
   
