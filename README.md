@@ -1,5 +1,4 @@
 # Scrabble Help -- Visual Studios Project
-Note: C# UI was not written or designed by me
 
 -	Builds List of All Words in Dictionary in Txt Files in Dictionary folder
 -	Takes in letters in User Interface and builds all possible words in the dictionary for them through a predicate function
