@@ -5,16 +5,6 @@ open System.Security
 #light
 
 //
-// My F# library for scrabble word generation.
-//
-// Omar Zorob
-// U. of Illinois, Chicago
-// CS 341, Fall 2017
-// Project #05
-//
-
-
-//
 // explode a string into a list of characters.
 // Example: "cat" -> ['c'; 'a'; 't']
 //
